@@ -8,8 +8,8 @@ https://github.com/nelsondcds/README-Generator
 
 The link to the video for my submission can be found here:
 
-
+[Google Drive](https://drive.google.com/file/d/1CiIFuxUP0zfiYvAZu-hg996Ztj7cXHlc/view)
 
 The video is also provided below:
 
-
+![Walkthrough Gif](./dist/Demo.gif)
