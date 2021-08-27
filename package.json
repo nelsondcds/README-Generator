@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository contains my submission for the Node.js Challenge: Professional README Generator. The challenge consists of creating a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsondcds/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nelsondcds/README-Generator/issues"
+  },
+  "homepage": "https://github.com/nelsondcds/README-Generator#readme"
 }
