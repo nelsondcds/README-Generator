@@ -1,30 +1,85 @@
-# t
-![License Badge](https://img.shields.io/github/license/test/t)![Number of Open Issues](https://img.shields.io/github/issues-raw/test/t)![Number of Closed Issues](https://img.shields.io/github/issues-closed-raw/test/t)![Number of Open Pull Requests](https://img.shields.io/github/issues-pr-raw/test/t)![Number of Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/test/t)![Top Language](https://img.shields.io/github/languages/top/test/t)![Language Count](https://img.shields.io/github/languages/count/test/t)![Repo Size](https://img.shields.io/github/repo-size/test/t)
+# portfolio
+![License Badge](https://img.shields.io/github/license/nelsondcds/portfolio)![Number of Open Issues](https://img.shields.io/github/issues-raw/nelsondcds/portfolio)![Number of Closed Issues](https://img.shields.io/github/issues-closed-raw/nelsondcds/portfolio)![Number of Open Pull Requests](https://img.shields.io/github/issues-pr-raw/nelsondcds/portfolio)![Number of Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/nelsondcds/portfolio)![Top Language](https://img.shields.io/github/languages/top/nelsondcds/portfolio)![Language Count](https://img.shields.io/github/languages/count/nelsondcds/portfolio)![Repo Size](https://img.shields.io/github/repo-size/nelsondcds/portfolio)
 
 ## Description
 
-t
+My portfolio.
 
-t
+Test
 
 
 ## Table of Contents
+
+* [Features](#Features)
 
 * [Installation](#Installation)
 
 * [Usage](#Usage)
 
+* [Tests](#Tests)
+
+* [Contributions](#Contributions)
+
+* [Questions](#Questions)
+
+* [Credits](#Credits)
+
 * [License](#License)
+
+
+## Features
+
+It lists my previous works
 
 
 ## Installation
 
-t
+No need to install a portfolio.
+
+test
 
 
 ## Usage
 
-t
+No need for instruction.
+
+Test
+
+![Usage Screenshot 1](.assets/images/test.png)
+
+![Usage Screenshot 2](test)
+
+
+## Tests
+
+Test
+
+
+## Contributions
+
+Test contribution guideline.
+
+Test
+
+
+## Questions
+
+If you have any further questions for me which are not answered in this README, then you may contact me on [GitHub](https://github.com/nelsondcds) or email me at nelsondcds@gmail.com
+
+
+## Credits
+
+**Collaborators**
+
+test - Their GitHub profile can be found [here](https://github.com/test)
+
+**Assets**
+
+test - This asset can be found [here](test.com)
+
+**Tutorials**
+
+*test.com
 
 
 ## License
